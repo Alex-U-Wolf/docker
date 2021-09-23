@@ -86,12 +86,12 @@ container #--# host : "port\nmapping"
 
 Hands-on practice quest #00: prerequisites sound-check (15+5)
 ---------------------------
-- [ ] Given
+- [X] Given
 - сделан форк данного руководства для собственных пометок
 - форк открыт в браузере для внесения пометок
 - для последующей удобной работы с copy+paste для ресурсов раздела [Prerequisites](#Prerequisites) плейсхолдеры заменены актуальными значениями
 
-- [ ] Сформированы пары участников с чередованием ролей в паре
+- [X] Сформированы пары участников с чередованием ролей в паре
 - Hint: синонимы команд docker cli
 - Hint: `... --help`
 - Hint: [docker cli reference](https://docs.docker.com/engine/reference/commandline/docker/)
