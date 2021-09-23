@@ -1,4 +1,4 @@
-Intro to Docker
+Intro to Docker - AlexV version
 ===============
 8 часов, 2 ак. дня.
 
@@ -6,7 +6,7 @@ Prerequisites
 =============
 - [ ] RAM ≥ 4Gb
 - [ ] Права локального админа для аккаунта участника 
-- [ ] Доступен git repo с данным руководством https://github.com/Alex-U-Wolf/docker `https://github.com/eugene-krivosheyev/docker`
+- [ ] Доступен git repo с данным руководством `https://github.com/Alex-U-Wolf/docker`
 - [ ] Доступен alexuwolf `https://hub.docker.com` (Docker Hub)
 - [ ] Зарегистрирована учетная запись {{ registry-account }} на {{ registry-host }}
 - [ ] Установлен Docker CE или совместимый менеджер контейнеров (e.g. Podman)
